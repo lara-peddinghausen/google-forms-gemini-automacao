@@ -61,5 +61,5 @@ Este projeto foi desenvolvido em grupo para a disciplina de Empregabilidade e Ca
 
   - Eliakim Oliveira
   - Lara Peddinghausen 
-  - Nilo Soares
+  - Nilo Lisboa
 
